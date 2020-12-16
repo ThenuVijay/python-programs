@@ -7,3 +7,4 @@ print(num2)
 visitedstatue=True
 print(type(visitedstatue))
 print(visitedstatue)
+
