@@ -65,7 +65,7 @@ while start<=100:
         start+=1    
         
         
-   
+#multiples of 2 + multiples of 3   
 start=1
 while start<=100:
         if start%3==0 or start%2==0:
